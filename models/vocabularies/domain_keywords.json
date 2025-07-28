@@ -1,0 +1,55 @@
+{
+  "Travel Planner": {
+    "high_priority": [
+      "itinerary",
+      "accommodation",
+      "hotel",
+      "flight",
+      "booking",
+      "activities",
+      "attractions",
+      "restaurants",
+      "transport",
+      "budget",
+      "group",
+      "friends",
+      "duration",
+      "days",
+      "schedule",
+      "plan"
+    ],
+    "context_clues": [
+      "visit",
+      "stay",
+      "travel",
+      "trip",
+      "destination",
+      "location",
+      "vacation",
+      "explore",
+      "experience",
+      "organize"
+    ]
+  },
+  "Research Analyst": {
+    "high_priority": [
+      "methodology",
+      "data",
+      "analysis",
+      "findings",
+      "results",
+      "study",
+      "research",
+      "evidence",
+      "statistics",
+      "conclusions"
+    ],
+    "context_clues": [
+      "investigate",
+      "evaluate",
+      "examine",
+      "analyze",
+      "assess"
+    ]
+  }
+}
